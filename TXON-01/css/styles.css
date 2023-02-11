@@ -1,0 +1,90 @@
+body {
+    font-family: "Montserrat";
+    background-color: #f1f2f6;
+}
+
+.navbar {
+    background-color: #0984e3;
+    padding: 18px;
+}
+
+.navbar-brand {
+    font-family: "Lobster";
+    font-size: 2.2rem ;
+    color:whitesmoke;
+}
+
+.nav-item {
+    padding-right: 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+}
+
+.title-image {
+   width:100%;
+}
+
+h1 {
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    color:#0984e3 ;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.btn {
+    margin: 5% 3% 5% 0%;
+}
+
+/* features */
+
+#features {
+  margin: 5% 15% 5% 15%;
+}
+
+.feature-images {
+    width: 40%;
+    padding-bottom: 10%;
+}
+
+h3 {
+    font-weight: bold;
+    color: #0984e3;
+    line-height: 2;
+}
+
+p{
+    line-height: 2;
+}
+
+
+/* Footer */
+
+
+.list-inline {
+    text-align: center;
+    background-color: #0984e3;
+    padding: 3% 15% 3% 15%;
+    line-height: 2.5;
+    margin-bottom: 0%;
+}
+
+.footer-links {
+    color: white;
+    padding: 10px;
+}
+
+
+#footer {
+    background-color:#0984e3;
+    color: white;
+    text-align: center;
+    padding: 2% 0% 2% 0%;
+    
+}
